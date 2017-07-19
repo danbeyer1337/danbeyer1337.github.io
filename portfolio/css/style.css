@@ -1,0 +1,32 @@
+
+.jumbotron{
+	background-image:url(../img/pdx2.jpg);
+	background-size:cover;
+	height:85vh;
+	border-radius:0; 
+	background-attachment:fixed;
+	
+	
+	
+	
+}
+.nav-item{
+	line-height:45px;
+	
+}
+
+.card {
+        margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+}
+
+.card-img-top{
+  width:100%;
+  height:auto;
+}
+
+body{
+	
+	
+}
